@@ -1,3 +1,9 @@
+
+## Sample Output
+<div align="center">
+  <img src="screenshots/output.png" width="70%" />
+</div>
+
 🎌 Anime.js Experiment Website
 
 A lightweight experimental website built to explore and demonstrate the animation capabilities of Anime.js using only HTML, CSS, and JavaScript.
