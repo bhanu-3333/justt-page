@@ -7,6 +7,7 @@
       easing: "easeInOutCubic",
       duration: 500,
     })
+    
     .add({
       targets: ".img .bg",
       width: ["0%", "40%"],
