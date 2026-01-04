@@ -1,7 +1,7 @@
 
 ## Sample Output
 <div align="center">
-  <img src="screenshots/output.png" width="70%" />
+  <img src="screenshot/output.png" width="70%" />
 </div>
 
 🎌 Anime.js Experiment Website
